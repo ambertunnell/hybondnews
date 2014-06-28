@@ -20,11 +20,11 @@ Or install it yourself as:
 
 For the current 10-year treasury rate from the Federal Reserve:
 
-  $ HYBondNews.t_rate
+    HYBondNews.t_rate
 
 For the latest 3 articles from www.leveragedfinancenews.com:
 
-  $ HYBondNews.bond_news 
+    HYBondNews.bond_news 
 
 ## Contributing
 
