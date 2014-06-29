@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    hybondnews (0.0.1)
+    hybondnews (1.0.1)
       nokogiri
 
 GEM
